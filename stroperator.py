@@ -1,0 +1,9 @@
+a="Suyog"
+b="Neupane"
+d="dinosaurus"
+c=a+b
+print(c)
+print(a*8)
+print(a[0:4])
+print(b[2:7])
+print(d[0:11:2])
